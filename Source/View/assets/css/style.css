@@ -1,0 +1,21 @@
+.painel-sidebar {
+    background-color: #222f3e;
+    color: #fff;
+    min-height: 100vh;
+}
+.painel-sidebar a{
+    color: #fff;
+    text-decoration: unset;
+}
+a.dropdown-item{
+    color: #222f3e;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid rgba(0,0,0,.125);
+}

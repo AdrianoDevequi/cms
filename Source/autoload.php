@@ -2,6 +2,7 @@
 
 require __DIR__ . "/Support/Config.php";
 require __DIR__ . "/Support/Helpers.php";
+require __DIR__ . "/View/_head.php";
 
 spl_autoload_register(function ($class) {
 
